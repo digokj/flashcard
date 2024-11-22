@@ -43,11 +43,11 @@ criaCartao(
 criaCartao(
     'HTML',
     ' Para que serve a tag <a>?',
-    'Criar links'
+    ' Criar links '
 )
 
 criaCartao(
     'JavaScript',
-    'O que é JavaScript?',
+    'O que é JavaScript? Como exibir uma mensagem de alerta?  Para que serve o let no JavaScript?',
     'Linguagem para adicionar interatividade em páginas web'
 )
