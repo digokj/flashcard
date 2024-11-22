@@ -21,3 +21,33 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'CSS',
+    ' O que é CSS?',
+    'É uma linguagem para estilizar páginas HTML'
+)
+
+criaCartao(
+    'CSS',
+    'Para que serve o id no CSS?',
+    'Estilizar um elemento único'
+)
+
+criaCartao(
+    'CSS',
+    'Como mudar a cor de fundo com CSS?',
+    'Use background-color'
+)
+
+criaCartao(
+    'HTML',
+    ' Para que serve a tag <a>?',
+    'Criar links'
+)
+
+criaCartao(
+    'JavaScript',
+    'O que é JavaScript?',
+    'Linguagem para adicionar interatividade em páginas web'
+)
