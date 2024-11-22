@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url('assets/beedesktop.webp');
+    background-image: url('assets/beedesktop.png');
     font-family: Bai Jamjuree;
 }
 
@@ -103,7 +103,7 @@ footer p {
 
 @media (max-width: 560px) {
     body {
-        background-image: url('assets/beemobile.webp');
+        background-image: url('assets/beemobile.png');
         background-repeat: no-repeat;
         background-size: cover;
     }
