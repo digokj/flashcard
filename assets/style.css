@@ -7,7 +7,7 @@
 
 /* Estilos globais para o corpo */
 body {
-    background-image: url('assets/beedesktop.png'); /* Caminho da imagem de fundo */
+    background: url('assets/beedesktop.png'); /* Caminho da imagem de fundo */
     background-repeat: no-repeat; /* Não repete a imagem */
     background-size: cover; /* Faz com que a imagem cubra toda a tela */
     background-position: center; /* Centraliza a imagem */
@@ -113,7 +113,7 @@ footer p {
 /* Estilos para telas pequenas */
 @media (max-width: 560px) {
     body {
-        background-image: url('assets/beemobile.png');
+        background: url('assets/beemobile.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
