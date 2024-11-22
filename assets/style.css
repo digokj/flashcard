@@ -1,11 +1,11 @@
 :root {
-    --text-color: #ffffff;
-    --card-front-color: #ffd700;
-    --card-back-color: #ffa704;
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('assets/BEEdesktop.png');
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('assets/BEEmobile.png'), no-repeat cover;
+        background: url('img/bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao {
@@ -113,4 +113,4 @@ footer p {
     .cartao__conteudo p {
         font-size: 3.8vw;
     }
-}                                           
+}   
