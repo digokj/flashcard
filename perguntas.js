@@ -43,7 +43,7 @@ criaCartao(
 criaCartao(
     'HTML',
     ' Para que serve a tag <a>?',
-    ' Criar links '
+    'Criar links'
 )
 
 criaCartao(
