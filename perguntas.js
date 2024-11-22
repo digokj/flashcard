@@ -48,6 +48,6 @@ criaCartao(
 
 criaCartao(
     'JavaScript',
-    'O que é JavaScript? Como exibir uma mensagem de alerta?  Para que serve o let no JavaScript?',
-    'Linguagem para adicionar interatividade em páginas web'
+    'O que é JavaScript?, Como exibir uma mensagem de alerta?,  Para que serve o let no JavaScript?',
+    'Linguagem para adicionar interatividade em páginas web, Use alert(), Declarar variáveis com escopo de bloco'
 )
